@@ -1,0 +1,45 @@
+#forgot {
+    font-size: smaller;
+    margin-top: 10px;
+}
+
+
+#create {
+    background-color:#ffec44;
+
+}
+
+.container {
+    background-color: rgb(255, 255, 255);
+   min-height: 600px;
+   min-width: 100%;
+}
+
+h1 {
+    margin-top: 90px;
+    font-weight: 600;
+}
+
+#connect {
+    font-size: xx-large;
+    font-weight: 400;
+}
+
+#left {
+    margin-left: 0px;
+    margin-top: 0px;
+}
+
+#Sign { 
+font-size: 30px;
+font-weight: 500;
+margin-left: 20px;
+
+}
+
+#email{
+font-size: 15px;
+font-weight: 700;
+
+
+}
